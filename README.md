@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Zaissler](github.com/Zaissler)
 
-- 📫 How to reach me **zaissler@gmail.com** and Telegram: t.me/blundetta
+- 📫 How to reach me **zaissler@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: t.me/blundetta</h3>
 <p align="left">
 </p>
 
