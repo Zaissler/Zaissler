@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **IDP project,and DevOps implementation in companies**
 
-- 🌱 I’m currently learning **K8, and others DevSecOps tools**
+- 🌱 I’m currently learning **K8s, and others DevSecOps tools**
 
 - 👯 I’m looking to collaborate on **Infrastructure creation for companies. Optimization of development processes. Integration and improvement of Devops processes. Also technical consultation.**
 
