@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Infrastructure creation for companies. Optimization of development processes. Integration and improvement of Devops processes. Also technical consultation.**
 
-- 👨‍💻 All of my projects are available at [github.com/Zaissler](github.com/Zaissler)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Zaissler">My GH profile</a>
 
 - 📫 How to reach me **zaissler@gmail.com**
 
